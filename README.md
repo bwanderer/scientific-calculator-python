@@ -18,9 +18,9 @@ A collection of Python scripts that evaluate and solve real-world scientific and
 ## How to run
 
 ```bash
-python euler_approximation.py
-python physics_calculator.py
-python engineering_formulas.py
+python euler_approx.py
+python physics_calc.py
+python engr_formulas.py
 ```
 
 Requires Python 3.x — no external libraries needed.
